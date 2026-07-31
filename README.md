@@ -44,7 +44,6 @@ ieee-fraud-detection/
 │   ├── 02_preprocessing.ipynb   ← cleaning, encoding, feature engineering
 │   └── 03_model.ipynb           ← XGBoost training and evaluation
 │
-├── charts/                       ← saved figures from each notebook
 ├── requirements.txt
 └── README.md
 ```
