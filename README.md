@@ -91,7 +91,7 @@ Docker link: https://docs.docker.com/engine/install/
 
 **2. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/ieee-fraud-detection.git
+git clone https://github.com/Lk13Antkoo/explainable-real-time-fraud-transaction.git
 cd ieee-fraud-detection
 ```
 **3. Create virtual environment and activate**
