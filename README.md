@@ -19,9 +19,9 @@ A machine learning project built on the [IEEE-CIS Fraud Detection dataset](https
 
 | Metric | Score |
 |---|---|
-| ROC-AUC | **0.9549** |
-| Fraud caught (Recall) | 85.4% |
-| False alarm rate | 8.8% |
+| ROC-AUC | **0.978** |
+| Fraud caught (Recall) | 0.8 |
+| Precision | 0.82 |
 
 The Kaggle leaderboard winner on this competition scored ~0.945, so landing at 0.9549 on the validation set without heavy hyperparameter tuning was a good result for a first pass.
 
