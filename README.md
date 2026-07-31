@@ -175,8 +175,7 @@ Figure 3: Waterfall plots of a “normal” transaction (left) and a “fraud”
 ## Video Demo
 
 <video controls width="600">
-  <source src="https://github.com/user-attachments/assets/23c8ce62-9e1a-40c0-98d8-c78a2061debb" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://github.com/user-attachments/assets/23c8ce62-9e1a-40c0-98d8-c78a2061debb?raw=1" type="video/mp4">
 </video>
 
 
